@@ -10,7 +10,17 @@ _这里记录重要的事情，不是流水账。_
 
 专题资料存放在 `memory/topics/`，需要时查阅：
 
-_暂无专题资料_
+- **Claude Code 使用手册** → `memory/topics/claude-code-handbook.md`
+- **Claude Code 模型配置** → `memory/topics/claude-code-model-config.md`
+- **Claude Code Agent Teams** → `memory/topics/claude-code-agent-teams.md`
+
+---
+
+## 重要事件
+
+### 2026-03-26
+- 重新定义工作区用途：专门用于 Claude Code 相关任务
+- 配置文件从英文改为中文
 
 ---
 
